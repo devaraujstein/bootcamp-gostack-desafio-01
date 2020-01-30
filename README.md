@@ -19,4 +19,4 @@
 
 ## :rocket: Sobre o desafio
 
-Foi proposto pela RocketSeat para o bootcamp GoStack 10.0 em seu primeiro modulo para fixar o conteudo de node.js apresentado, o qual tem de desenvolver uma aplicação de projetos que possuem tarefas nestes, utlizando <a href="https://expressjs.com/pt-br/"> Express </a>. O desafio completo e suas especificações podem ser vistas <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01"> clicando aqui </a>
+Foi proposto pela RocketSeat para o bootcamp GoStack 10.0 em seu primeiro modulo para fixar o conteudo de node.js apresentado, o qual tem de desenvolver uma aplicação para armazenar projetos e suas tarefas, utlizando <a href="https://expressjs.com/pt-br/"> Express </a>. O desafio completo e suas especificações podem ser vistas <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01"> clicando aqui </a>
