@@ -12,7 +12,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by André Araujo" >
+    <img alt="Made by André Araujo" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361" >
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
