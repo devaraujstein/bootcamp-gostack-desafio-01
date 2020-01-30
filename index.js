@@ -50,7 +50,7 @@ server.post('/projects', (req,res) => {
   const project = {
     id,
     title,
-    tasks
+    tasks : []
   };
 
   projects.push(project);
