@@ -21,9 +21,11 @@ server.use((req,res,next) =>{
 })
 
 function checkProjectsExists(req, res, next){
-  const id = req.body
+  const {id} = req.params
+
+  const projectExists = projects.find(element => element.id == id)
   
-  if(!id){
+  if(!projectExists){
     return res.status(400).json({error : "Project not Exists"});
   }
   
