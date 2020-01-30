@@ -12,7 +12,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by André Araujo" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+    <img alt="Made by André Araujo" >
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -24,4 +24,4 @@
 
 ## :rocket: Sobre o desafio
 
-Foi proposto pela RocketSeat para o bootcamp GoStack em seu primeiro modulo para fixar o conteudo de node.js apresentado, o qual tem de desenvolver uma aplicação de projetos que possuem tarefas nestes, utlizando <a href="https://expressjs.com/pt-br/"> Express </a>. O desafio completo e suas especificações podem ser vistas <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01"> clicando aqui </a>
+Foi proposto pela RocketSeat para o bootcamp GoStack 10.0 em seu primeiro modulo para fixar o conteudo de node.js apresentado, o qual tem de desenvolver uma aplicação de projetos que possuem tarefas nestes, utlizando <a href="https://expressjs.com/pt-br/"> Express </a>. O desafio completo e suas especificações podem ser vistas <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01"> clicando aqui </a>
